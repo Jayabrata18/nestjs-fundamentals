@@ -25,4 +25,5 @@ CREATE DATABASE "spotify-clone";
 # Exit the container
 exit
 
-9. 
+9.  npm i nestjs-typeorm-paginate bcryptjs @types/bcryptjs
+10. nest g module/service/controller auth
